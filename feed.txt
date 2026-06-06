@@ -9,49 +9,13 @@ China Launches First National Longevity Medicine Education Program	In a major in
 Omega-3 Benefits Linked to Modulation of Cellular Senescence	A study has clarified the mixed results of omega-3 fatty acids in chronic kidney disease by showing they specifically target cellular senescence. Researchers found that omega-3s help suppress the harmful inflammatory secretions of "zombie" cells, providing a clear mechanistic link between nutrition and healthspan.	https://lifespan.io/news/	Longevity	2026-05-12
 CRISPR-Based Tool Developed to Selectively Kill Senescent Cells	Scientists have engineered a new CRISPR tool that can identify and eliminate cells carrying specific RNA strands associated with aging and disease. This high-precision "seek and destroy" mechanism could be used to clear senescent cells more effectively than current senolytic drugs, reducing systemic inflammation.	https://lifespan.io/news/	Longevity	2026-05-10
 Phosphatidylcholine Restoration Reverses Mitochondrial Aging in Worms	By supplementing the lipid phosphatidylcholine, researchers successfully reversed age-related mitochondrial decline in C. elegans, extending their healthy lifespan. This discovery points toward lipid-based interventions as a simple but powerful method for restoring mitochondrial health in aging mammals.	https://lifespan.io/news/	Longevity	2026-05-08
-Summary: Researchers developed a standardized framework using data from 2,019 individuals to quantify clinical and molecular aging. This study identified coagulation factor accumulation as a key driver of multi-organ senescence and systemic inflammation.
-Source URL: https://www.cell.com/cell/abstract/S0092-8674(26)00460-5
-Topic: Longevity
-Publication Date: 2026-05-08
-
-2. Title: RUNX1 Identified as a Master Regulator of Immune Rejuvenation
-Summary: A new human immune aging clock revealed that the transcription factor RUNX1 declines with age, driving T cell senescence. Restoring RUNX1 expression was shown to functionally rejuvenate aged human T cells, offering a promising target for reviving immunity.
-Source URL: https://www.cell.com/immunity/abstract/S1074-7613(26)00077-4
-Topic: Longevity
-Publication Date: 2026-04-14
-
-3. Title: Lifestyle Factors Found to Overpower Genetic Longevity Benefits
-Summary: A study of centenarians found that modifiable risk factors like diet and exercise significantly influence lifespan regardless of genetic predisposition. Crucially, an unfavorable lifestyle can largely negate the survival advantages provided by "longevity genes."
-Source URL: https://www.nature.com/articles/s41514-026-00393-7
-Topic: Longevity
-Publication Date: 2026-05-05
-
-4. Title: First Human Trials for Epigenetic Eye Rejuvenation Begin
-Summary: Clinical trials have launched to test if partial cellular reprogramming can restore eyesight by "turning back the clock" on retinal nerve cells. This landmark study uses Yamanaka factors to treat glaucoma, marking a pivotal step toward reversing human organ aging.
-Source URL: https://www.scientificamerican.com/article/this-method-to-reverse-cellular-aging-is-about-to-be-tested-in-humans/
-Topic: Longevity
-Publication Date: 2026-04-13
-
-5. Title: SRN-901 Drug Extends Lifespan and Reduces Frailty in Preclinical Study
-Summary: Preclinical data for the drug candidate SRN-901 demonstrated significant increases in both lifespan and healthspan in model organisms. The treatment not only extended life but also reduced age-related frailty and tumor incidence, showing broad geroprotective potential.
-Source URL: https://www.prnewswire.com/news-releases/seragon-pharmaceuticals-announces-preclinical-study-results-of-its-novel-aging-intervention-candidate-srn-901-302116815.html
-Topic: Longevity
-Publication Date: 2026-04-15
-
-6. Title: ARPA-H Invests $144 Million to Target Aging as a Medical Condition
-Summary: The Advanced Research Projects Agency for Health (ARPA-H) has allocated $144 million to fund clinical trials that treat aging as a measurable health target. This massive investment signals a major shift toward institutionalizing geroscience and healthspan optimization.
-Source URL: https://arpa-h.gov/news-and-events/arpa-h-announces-awards-to-develop-novel-technologies-to-quantify-and-treat-aging
-Topic: Longevity
-Publication Date: 2026-02-24 (Note: User asked for since April 1st, but this is a major move in the field mentioned in recent May news)
-
-7. Title: Altos Labs Reveals Progress in Full-Body Rejuvenation Research
-Summary: The $3 billion startup Altos Labs has shared rare insights into its work on "partial epigenetic reprogramming" to reverse cellular damage. Their research aims to recapture youthful resilience across entire organs, potentially transforming how we treat age-related decline.
-Source URL: https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html
-Topic: Longevity
-Publication Date: 2026-04-27
-
-8. Title: Psilocybin Found to Extend Lifespan in Aged Mice
-Summary: New research indicates that psilocybin treatment can extend cellular lifespan and improve survival rates in aged mouse models. While human anti-aging effects are yet to be proven, the study identifies a potential role for psychedelics in modulating longevity pathways.
-Source URL: https://www.nature.com/articles/s41514-026-00380-y
-Topic: Longevity
-Publication Date: 2026-04-03
+Multimodal Standardized Aging Framework (mCAS) Developed	Researchers developed a standardized framework using data from 2,019 individuals to quantify clinical and molecular aging. This study identified coagulation factor accumulation as a key driver of multi-organ senescence and systemic inflammation.	https://www.cell.com/cell/abstract/S0092-8674(26)00460-5	Longevity	2026-05-08
+RUNX1 Identified as a Master Regulator of Immune Rejuvenation	A new human immune aging clock revealed that the transcription factor RUNX1 declines with age, driving T cell senescence. Restoring RUNX1 expression was shown to functionally rejuvenate aged human T cells, offering a promising target for reviving immunity.	https://www.cell.com/immunity/abstract/S1074-7613(26)00077-4	Longevity	2026-04-14
+Lifestyle Factors Found to Overpower Genetic Longevity Benefits	A study of centenarians found that modifiable risk factors like diet and exercise significantly influence lifespan regardless of genetic predisposition. Crucially, an unfavorable lifestyle can largely negate the survival advantages provided by "longevity genes."	https://www.nature.com/articles/s41514-026-00393-7	Longevity	2026-05-05
+First Human Trials for Epigenetic Eye Rejuvenation Begin	Clinical trials have launched to test if partial cellular reprogramming can restore eyesight by "turning back the clock" on retinal nerve cells. This landmark study uses Yamanaka factors to treat glaucoma, marking a pivotal step toward reversing human organ aging.	https://www.scientificamerican.com/article/this-method-to-reverse-cellular-aging-is-about-to-be-tested-in-humans/	Longevity	2026-04-13
+SRN-901 Drug Extends Lifespan and Reduces Frailty in Preclinical Study	Preclinical data for the drug candidate SRN-901 demonstrated significant increases in both lifespan and healthspan in model organisms. The treatment not only extended life but also reduced age-related frailty and tumor incidence, showing broad geroprotective potential.	https://www.prnewswire.com/news-releases/seragon-pharmaceuticals-announces-preclinical-study-results-of-its-novel-aging-intervention-candidate-srn-901-302116815.html	Longevity	2026-04-15
+ARPA-H Invests $144 Million to Target Aging as a Medical Condition	The Advanced Research Projects Agency for Health (ARPA-H) has allocated $144 million to fund clinical trials that treat aging as a measurable health target. This massive investment signals a major shift toward institutionalizing geroscience and healthspan optimization.	https://arpa-h.gov/news-and-events/arpa-h-announces-awards-to-develop-novel-technologies-to-quantify-and-treat-aging	Longevity	2026-02-24
+Altos Labs Reveals Progress in Full-Body Rejuvenation Research	The $3 billion startup Altos Labs has shared rare insights into its work on "partial epigenetic reprogramming" to reverse cellular damage. Their research aims to recapture youthful resilience across entire organs, potentially transforming how we treat age-related decline.	https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html	Longevity	2026-04-27
+Psilocybin Found to Extend Lifespan in Aged Mice	New research indicates that psilocybin treatment can extend cellular lifespan and improve survival rates in aged mouse models. While human anti-aging effects are yet to be proven, the study identifies a potential role for psychedelics in modulating longevity pathways.	https://www.nature.com/articles/s41514-026-00380-y	Longevity	2026-04-03
+Insilico Medicine Creates AI Longevity Board with Pharma Giants	Insilico Medicine has formed a Longevity Board chaired by a senior executive from Eli Lilly to guide AI-driven aging research. This move bridges the gap between longevity science and mainstream pharmaceutical drug discovery, signaling institutional adoption.	https://newmarketpitch.com/blogs/news/longevity-market-news	Longevity	2026-04-21
+WHOOP Raises $575 Million to Scale Preventive Health Wearables	WHOOP secured $575 million at a $10 billion valuation to expand its global footprint in real-time personalized preventive health. This investment highlights the growing importance of continuous biological monitoring as a gateway to longevity for the general public.	https://newmarketpitch.com/blogs/news/longevity-market-news	Longevity	2026-04-01
